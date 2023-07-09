@@ -1,8 +1,8 @@
 {
-	"name": "UmaruBot",
+	"name": "RajBot",
 	"version": "31.7.2",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-	"main": "mirai.js",
+	"description": "A simple Facebook Messenger Bot made by Raj Chowdhury.",
+	"main": "RAJ.js",
 	"scripts": {
 		"start": "node index",
 		"login": "node login",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1"
+		"url": "https://github.com/MR-D3V1L-RAJ/RajBypass"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
-		"projectmirai",
+		"raj",
 		"messenger",
-		"mirai",
+		"devil",
 		"catalizcs",
 		"spermlord",
 		"miraipr0ject"
@@ -25,9 +25,9 @@
 	"author": "John Lester",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1/issues"
+		"url": "https://github.com/MR-D3V1L-RAJ/RajBypass/issues"
 	},
-	"homepage": "https://github.com/umaruchan0x1861/umarubot1.1.1",
+	"homepage": "https://github.com/MR-D3V1L-RAJ/RajBypass",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
